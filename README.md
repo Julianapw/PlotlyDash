@@ -1,15 +1,20 @@
 # PlotlyDash
 
-Este repositório contém um exemplo de aplicação interativa desenvolvida com Plotly e Dash em Python. O objetivo é demonstrar como criar dashboards dinâmicos e responsivos para visualização de dados.
+This repository contains an example of an **interactive application developed with Plotly and Dash in Python**.  
+The goal is to demonstrate how to build **dynamic and responsive dashboards** for data visualization.
 
-## 🚀 Funcionalidades
+---
 
-- Visualizações interativas com gráficos do Plotly
-- Componentes interativos como sliders, dropdowns e gráficos dinâmicos
-- Layout responsivo utilizando Dash
-- Integração com dados externos ou locais para análise
+## 🚀 Features
 
-## 🛠️ Tecnologias Utilizadas
+- Interactive visualizations using Plotly charts
+- Interactive components such as sliders, dropdowns, and dynamic graphs
+- Responsive layout built with Dash
+- Integration with external or local data sources for analysis
+
+---
+
+## 🛠️ Technologies Used
 
 - [Dash](https://dash.plotly.com/)
 - [Plotly](https://plotly.com/python/)
